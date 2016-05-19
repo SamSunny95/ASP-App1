@@ -1,0 +1,98 @@
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\ApplicationInsights.config
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\csc.exe
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\vbc.exe
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\VBCSCompiler.exe
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\COMP2007App1.dll.config
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\COMP2007App1.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\COMP2007App1.pdb
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.Web.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.ApplicationInsights.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.Web.xml
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.ApplicationInsights.xml
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\obj\Debug\COMP2007App1.csprojResolveAssemblyReference.cache
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\obj\Debug\COMP2007App1.dll
+c:\users\kothari\documents\visual studio 2015\Projects\COMP2007App1\COMP2007App1\obj\Debug\COMP2007App1.pdb
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\csc.exe.config
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\csc.rsp
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\csi.exe
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\csi.rsp
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\System.AppContext.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\vbc.exe.config
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\roslyn\vbc.rsp
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\Octokit.dll
+C:\Users\Kothari\Documents\Visual Studio 2015\Projects\COMP2007App1\COMP2007App1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\ApplicationInsights.config
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\csc.exe
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\csc.exe.config
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\csc.rsp
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\csi.exe
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\csi.rsp
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\System.AppContext.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\vbc.exe
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\vbc.exe.config
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\vbc.rsp
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\VBCSCompiler.exe
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\COMP2007App1.dll.config
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\COMP2007App1.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\COMP2007App1.pdb
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.Web.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Octokit.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.Web.xml
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\obj\Debug\COMP2007App1.csprojResolveAssemblyReference.cache
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\obj\Debug\COMP2007App1.dll
+C:\Users\samps_000\Documents\Visual Studio 2015\Projects\COMP2007 application 1\COMP2007App1\obj\Debug\COMP2007App1.pdb
